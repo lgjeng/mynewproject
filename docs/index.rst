@@ -18,7 +18,7 @@
 
 內容
 
-\*
+\*\ |IMG1|\ 
 
 第二章
 
@@ -35,3 +35,7 @@
 
 
 .. bottom of content
+
+.. |IMG1| image:: static/無標題文件_1.png
+   :height: 224 px
+   :width: 224 px
